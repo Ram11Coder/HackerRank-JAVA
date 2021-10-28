@@ -1,11 +1,8 @@
-# HackerRank-JAVA
-:fire:
-# HackerRank JAVA Coding Problems # 
-:fire:
+:fire:  # HackerRank JAVA Coding Problems #  :fire:
 
 **INTRODUCTION**
 
-|Topics |
+|        Topics        |
 |:---: |
 [Hello World](https://github.com/Ram11Coder/HackerRank-JAVA/blob/master/Introduction/HelloWorld.java "Hello World")| 
 [Standard Input 1](https://github.com/Ram11Coder/HackerRank-JAVA/blob/master/Introduction/StdIO.java "StdIO 1")| 

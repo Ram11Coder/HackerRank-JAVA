@@ -1,7 +1,6 @@
-:fire:  # HackerRank JAVA Coding Problems #  :fire:
+:fire:  #HackerRank JAVA Coding Problems#  :fire:
 
-**INTRODUCTION**
-
+        **INTRODUCTION**
 |        Introduction Topics       |
 |:---: |
 [Hello World](https://github.com/Ram11Coder/HackerRank-JAVA/blob/master/Introduction/HelloWorld.java "Hello World")| 

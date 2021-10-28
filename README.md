@@ -1,4 +1,4 @@
-:fire:  #HackerRank JAVA Coding Problems#  :fire:
+:fire: HackerRank JAVA Coding Problems :fire:
 
 **INTRODUCTION**
 

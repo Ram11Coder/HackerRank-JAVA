@@ -14,3 +14,6 @@
 [ Datatypes](https://github.com/Ram11Coder/HackerRank-JAVA/blob/master/Introduction/Datatypes.java "Datatype ") |
 [EOF](https://github.com/Ram11Coder/HackerRank-JAVA/blob/master/Introduction/EOF.java "EOF") |
 [Static Block](https://github.com/Ram11Coder/HackerRank-JAVA/blob/master/Introduction/StaticBlock.java "Static block") |
+[CurrencyFormatter](https://github.com/Ram11Coder/HackerRank-JAVA/blob/master/Introduction/CurrencyFormatter.java "CurrencyFormatter") |
+[DateAndTime](https://github.com/Ram11Coder/HackerRank-JAVA/blob/master/Introduction/DateAndTime.java "DateAndTime") |
+[IntToString](https://github.com/Ram11Coder/HackerRank-JAVA/blob/master/Introduction/IntToString.java "IntToString") |

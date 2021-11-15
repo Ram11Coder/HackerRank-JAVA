@@ -1,6 +1,10 @@
-:fire: HackerRank JAVA Coding Problems :fire:
+<p align="center">
+  :fire: HackerRank JAVA Coding Problems :fire:
 
-**INTRODUCTION**
+#INTRODUCTION
+</p>
+
+<p align="center">
 
  Difficulty | Topics|
 :---: |:---: |
@@ -17,3 +21,14 @@ Easy | [Static Block](https://github.com/Ram11Coder/HackerRank-JAVA/blob/master/
 Easy | [CurrencyFormatter](https://github.com/Ram11Coder/HackerRank-JAVA/blob/master/Introduction/CurrencyFormatter.java "CurrencyFormatter") |
 Easy | [DateAndTime](https://github.com/Ram11Coder/HackerRank-JAVA/blob/master/Introduction/DateAndTime.java "DateAndTime") |
 Easy | [IntToString](https://github.com/Ram11Coder/HackerRank-JAVA/blob/master/Introduction/IntToString.java "IntToString") |
+</p>
+
+
+<p align="center">
+#BigInteger
+
+ Difficulty | Topics|
+:---: |:---: |
+Easy |[BigInteger](https://github.com/Ram11Coder/HackerRank-JAVA/blob/master/BigNumbers/Easy/BigIntegerSample.java "Big integer")| 
+Easy | [Primality Test](https://github.com/Ram11Coder/HackerRank-JAVA/blob/master/BigNumbers/Easy/PrimalityTest.java "Prime Test")| 
+</p>

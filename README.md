@@ -25,7 +25,7 @@ Easy | [IntToString](https://github.com/Ram11Coder/HackerRank-JAVA/blob/master/I
 <br>
 
 <p align="center">
-<h1>BIGINTEGER </h1>
+<h1>STRINGS </h1>
 
  Difficulty | Topics|
 :---: |:---: |

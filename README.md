@@ -24,8 +24,11 @@ Easy | [IntToString](https://github.com/Ram11Coder/HackerRank-JAVA/blob/master/I
 </p>
 
 
+<p>
+  # BIGINTEGER
+  </p>
 <p align="center">
-# BigInteger
+
 
  Difficulty | Topics|
 :---: |:---: |

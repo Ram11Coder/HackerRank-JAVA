@@ -22,6 +22,23 @@ Easy | [CurrencyFormatter](https://github.com/Ram11Coder/HackerRank-JAVA/blob/ma
 Easy | [DateAndTime](https://github.com/Ram11Coder/HackerRank-JAVA/blob/master/Introduction/DateAndTime.java "DateAndTime") |
 Easy | [IntToString](https://github.com/Ram11Coder/HackerRank-JAVA/blob/master/Introduction/IntToString.java "IntToString") |
 </p>
+<br>
+
+<p align="center">
+<h1>BIGINTEGER </h1>
+
+ Difficulty | Topics|
+:---: |:---: |
+Easy |[StringsIntro](https://github.com/Ram11Coder/HackerRank-JAVA/blob/master/Strings/Easy/Anagram.javaStringsIntro.java "String Intro")| 
+Easy | [StringTokens](https://github.com/Ram11Coder/HackerRank-JAVA/blob/master/Strings/Easy/Anagram.javaStringTokens.java "StringTokens")| 
+Easy | [SubstringComparision](https://github.com/Ram11Coder/HackerRank-JAVA/blob/master/Strings/Easy/Anagram.javaSubstringComparision.java "SubstringComparision") |
+Easy | [SubString](https://github.com/Ram11Coder/HackerRank-JAVA/blob/master/Strings/Easy/Anagram.javaSubString.java "SubString") |
+Easy | [StringReverse](https://github.com/Ram11Coder/HackerRank-JAVA/blob/master/Strings/Easy/Anagram.javaStringReverse.java "StringReverse") |
+Easy | [ValidUsername](https://github.com/Ram11Coder/HackerRank-JAVA/blob/master/Strings/Easy/Anagram.javaValidUsername.java "ValidUsername") |
+Easy | [PatternSyntaxChecker](https://github.com/Ram11Coder/HackerRank-JAVA/blob/master/Strings/Easy/Anagram.javaPatternSyntaxChecker.java "PatternSyntaxChecker") |
+Easy | [Anagram](https://github.com/Ram11Coder/HackerRank-JAVA/blob/master/Strings/Easy/Anagram.javaAnagram.java "Anagram") |
+
+</p>
 
 <br>
 

@@ -1,7 +1,7 @@
 <p align="center">
   :fire: HackerRank JAVA Coding Problems :fire:
 
-#INTRODUCTION
+# INTRODUCTION
 </p>
 
 <p align="center">
@@ -25,7 +25,7 @@ Easy | [IntToString](https://github.com/Ram11Coder/HackerRank-JAVA/blob/master/I
 
 
 <p align="center">
-#BigInteger
+# BigInteger
 
  Difficulty | Topics|
 :---: |:---: |

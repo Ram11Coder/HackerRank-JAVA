@@ -56,6 +56,6 @@ Easy | [Primality Test](https://github.com/Ram11Coder/HackerRank-JAVA/blob/maste
 
  Difficulty | Topics|
 :---: |:---: |
-Easy |[Exception handle](https://github.com/Ram11Coder/HackerRank-JAVA/blob/master/BigNumbers/ExceptionHandling.java "ExceptionHandling")| 
-Medium | [Custom Exception handle](https://github.com/Ram11Coder/HackerRank-JAVA/blob/master/BigNumbers/CustomExceptionHandling.java "CustomExceptionHandling")| 
+Easy |[Exception handle](https://github.com/Ram11Coder/HackerRank-JAVA/blob/master/Exception%20Handling/ExceptionHandling.java "ExceptionHandling")| 
+Medium | [Custom Exception handle](https://github.com/Ram11Coder/HackerRank-JAVA/blob/master/Exception%20Handling/CustomExceptionHandling.java "CustomExceptionHandling")| 
 </p>

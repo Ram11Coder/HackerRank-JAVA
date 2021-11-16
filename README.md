@@ -50,3 +50,12 @@ Easy | [Anagram](https://github.com/Ram11Coder/HackerRank-JAVA/blob/master/Strin
 Easy |[BigInteger](https://github.com/Ram11Coder/HackerRank-JAVA/blob/master/BigNumbers/Easy/BigIntegerSample.java "Big integer")| 
 Easy | [Primality Test](https://github.com/Ram11Coder/HackerRank-JAVA/blob/master/BigNumbers/Easy/PrimalityTest.java "Prime Test")| 
 </p>
+
+<p align="center">
+<h1>EXCEPTION HANDLING </h1>
+
+ Difficulty | Topics|
+:---: |:---: |
+Easy |[Exception handle](https://github.com/Ram11Coder/HackerRank-JAVA/blob/master/BigNumbers/ExceptionHandling.java "ExceptionHandling")| 
+Medium | [Custom Exception handle](https://github.com/Ram11Coder/HackerRank-JAVA/blob/master/BigNumbers/CustomExceptionHandling.java "CustomExceptionHandling")| 
+</p>

@@ -37,6 +37,7 @@ Easy | [StringReverse](https://github.com/Ram11Coder/HackerRank-JAVA/blob/master
 Easy | [ValidUsername](https://github.com/Ram11Coder/HackerRank-JAVA/blob/master/Strings/Easy/Anagram.javaValidUsername.java "ValidUsername") |
 Easy | [PatternSyntaxChecker](https://github.com/Ram11Coder/HackerRank-JAVA/blob/master/Strings/Easy/Anagram.javaPatternSyntaxChecker.java "PatternSyntaxChecker") |
 Easy | [Anagram](https://github.com/Ram11Coder/HackerRank-JAVA/blob/master/Strings/Easy/Anagram.javaAnagram.java "Anagram") |
+Medium | [Regex 1](https://github.com/Ram11Coder/HackerRank-JAVA/blob/master/Strings/Medium/Regex.java "Regex") |
 
 </p>
 

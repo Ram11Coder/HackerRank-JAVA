@@ -44,13 +44,30 @@ Medium | [Regex 1](https://github.com/Ram11Coder/HackerRank-JAVA/blob/master/Str
 <br>
 
 <p align="center">
-<h1>BIGINTEGER </h1>
+<h1>BIGNUMBERS </h1>
 
  Difficulty | Topics|
 :---: |:---: |
 Easy |[BigInteger](https://github.com/Ram11Coder/HackerRank-JAVA/blob/master/BigNumbers/Easy/BigIntegerSample.java "Big integer")| 
 Easy | [Primality Test](https://github.com/Ram11Coder/HackerRank-JAVA/blob/master/BigNumbers/Easy/PrimalityTest.java "Prime Test")| 
 </p>
+
+<p align="center">
+<h1>OOPS </h1>
+
+ Difficulty | Topics|
+:---: |:---: |
+Easy |[Java Inheritance 1](https://github.com/Ram11Coder/HackerRank-JAVA/blob/master/Object%20Oriented%20Programming/JavaInheritance1.java "Java Inheritance  1")| 
+Easy |[Java Inheritance 2](https://github.com/Ram11Coder/HackerRank-JAVA/blob/master/Object%20Oriented%20Programming/JavaInheritance2.java "Java Inheritance  2")| 
+Easy |[Java Abstraction](https://github.com/Ram11Coder/HackerRank-JAVA/blob/master/Object%20Oriented%20Programming/JavaAbstractClass.java "Java Abdtraction")| 
+Easy |[Java Interface](https://github.com/Ram11Coder/HackerRank-JAVA/blob/master/Object%20Oriented%20Programming/JavaInterface.java "Java Interface")| 
+Easy |[Java MethodOverloading 1](https://github.com/Ram11Coder/HackerRank-JAVA/blob/master/Object%20Oriented%20Programming/JavaMethodOverriding1.java "Java Method overloading  1")| 
+Easy |[Java MethodOverloading 2](https://github.com/Ram11Coder/HackerRank-JAVA/blob/master/Object%20Oriented%20Programming/JavaMethodOverriding2.java "Java MethodOverlaoding 2")| 
+Easy |[Java InstanceOf](https://github.com/Ram11Coder/HackerRank-JAVA/blob/master/Object%20Oriented%20Programming/JavaInstanceofkeyword.java "Java InstanceOf")| 
+Easy |[Java Iterator](https://github.com/Ram11Coder/HackerRank-JAVA/blob/master/Object%20Oriented%20Programming/JavaIterator.java "Java Iterator")| 
+
+</p>
+
 
 <p align="center">
 <h1>EXCEPTION HANDLING </h1>

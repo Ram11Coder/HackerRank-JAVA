@@ -52,6 +52,19 @@ Easy |[BigInteger](https://github.com/Ram11Coder/HackerRank-JAVA/blob/master/Big
 Easy | [Primality Test](https://github.com/Ram11Coder/HackerRank-JAVA/blob/master/BigNumbers/Easy/PrimalityTest.java "Prime Test")| 
 </p>
 
+
+<p align="center">
+<h1>DATA STRUCTURES </h1>
+
+ Difficulty | Topics|
+:---: |:---: |
+Easy | [Java 1D Array]("https://github.com/Ram11Coder/HackerRank-JAVA/blob/master/Data%20Structures/JavaIDArray.java" "JAVA ID Array")| 
+Easy |[ArrayList](https://github.com/Ram11Coder/HackerRank-JAVA/blob/master/Data%20Structures/Arraylist.java "ArrayList")| 
+Easy | [Java SubArray]("https://github.com/Ram11Coder/HackerRank-JAVA/blob/master/Data%20Structures/JavaSubArray.java" "Java Sub Array)| 
+</p>
+
+
+
 <p align="center">
 <h1>OOPS </h1>
 

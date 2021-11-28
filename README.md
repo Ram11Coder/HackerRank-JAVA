@@ -52,18 +52,20 @@ Easy |[BigInteger](https://github.com/Ram11Coder/HackerRank-JAVA/blob/master/Big
 Easy | [Primality Test](https://github.com/Ram11Coder/HackerRank-JAVA/blob/master/BigNumbers/Easy/PrimalityTest.java "Prime Test")| 
 </p>
 
-
+<br>
 <p align="center">
 <h1>DATA STRUCTURES </h1>
 
  Difficulty | Topics|
 :---: |:---: |
-Easy |[Java 1D Array](https://github.com/Ram11Coder/HackerRank-JAVA/blob/master/Data%20Structures/JavaIDArray.java "JAVA ID Array")| 
-Easy |[ArrayList](https://github.com/Ram11Coder/HackerRank-JAVA/blob/master/Data%20Structures/Arraylist.java "ArrayList")| 
-Easy |[Java SubArray](https://github.com/Ram11Coder/HackerRank-JAVA/blob/master/Data%20Structures/JavaSubArray.java "Java Sub Array")| 
+Easy |[Java 1D Part1](https://github.com/Ram11Coder/HackerRank-JAVA/blob/master/Data%20Structures/Easy/JavaIDArray.java "JAVA ID Array")| 
+Easy |[ArrayList](https://github.com/Ram11Coder/HackerRank-JAVA/blob/master/Data%20Structures/Easy/Arraylist.java "ArrayList")| 
+Easy |[Java SubArray](https://github.com/Ram11Coder/HackerRank-JAVA/blob/master/Data%20Structures/Easy/JavaSubArray.java "Java Sub Array")|
+Easy |[JavaList](https://github.com/Ram11Coder/HackerRank-JAVA/blob/master/Data%20Structures/Easy/JavaList.java "Java List")|
+Medium |[Java1D Part2](https://github.com/Ram11Coder/HackerRank-JAVA/blob/master/Data%20Structures/Medium/Java1DPart2.java "Java 1D Part2")|
 </p>
 
-
+<br>
 
 <p align="center">
 <h1>OOPS </h1>
@@ -80,7 +82,7 @@ Easy |[Java InstanceOf](https://github.com/Ram11Coder/HackerRank-JAVA/blob/maste
 Easy |[Java Iterator](https://github.com/Ram11Coder/HackerRank-JAVA/blob/master/Object%20Oriented%20Programming/JavaIterator.java "Java Iterator")| 
 
 </p>
-
+<br>
 
 <p align="center">
 <h1>EXCEPTION HANDLING </h1>
@@ -89,4 +91,13 @@ Easy |[Java Iterator](https://github.com/Ram11Coder/HackerRank-JAVA/blob/master/
 :---: |:---: |
 Easy |[Exception handle](https://github.com/Ram11Coder/HackerRank-JAVA/blob/master/Exception%20Handling/ExceptionHandling.java "ExceptionHandling")| 
 Medium | [Custom Exception handle](https://github.com/Ram11Coder/HackerRank-JAVA/blob/master/Exception%20Handling/CustomExceptionHandling.java "CustomExceptionHandling")| 
+</p>
+<br>
+<p align="center">
+<h1>ADVANCED </h1>
+
+ Difficulty | Topics|
+:---: |:---: |
+Easy |[Java Args](https://github.com/Ram11Coder/HackerRank-JAVA/blob/master/Advanced/Easy/JavaVarArgs.java "Java Args")| 
+Easy |[Prime Checker](https://github.com/Ram11Coder/HackerRank-JAVA/blob/master/Advanced/Medium/PrimeChecker.java "Prime checker")| 
 </p>

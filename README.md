@@ -100,5 +100,8 @@ Medium | [Custom Exception handle](https://github.com/Ram11Coder/HackerRank-JAVA
  Difficulty | Topics|
 :---: |:---: |
 Easy |[Java Args](https://github.com/Ram11Coder/HackerRank-JAVA/blob/master/Advanced/Easy/JavaVarArgs.java "Java Args")| 
+Easy |[Singleton Class](https://github.com/Ram11Coder/HackerRank-JAVA/blob/master/Advanced/Easy/Singleton.java "Singleton")| 
 Medium |[Prime Checker](https://github.com/Ram11Coder/HackerRank-JAVA/blob/master/Advanced/Medium/PrimeChecker.java "Prime checker")| 
+
+
 </p>

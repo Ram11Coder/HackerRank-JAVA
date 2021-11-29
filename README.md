@@ -50,6 +50,7 @@ Medium | [Regex 1](https://github.com/Ram11Coder/HackerRank-JAVA/blob/master/Str
 :---: |:---: |
 Easy |[BigInteger](https://github.com/Ram11Coder/HackerRank-JAVA/blob/master/BigNumbers/Easy/BigIntegerSample.java "Big integer")| 
 Easy | [Primality Test](https://github.com/Ram11Coder/HackerRank-JAVA/blob/master/BigNumbers/Easy/PrimalityTest.java "Prime Test")| 
+Medium | [BigDecimal Sort](https://github.com/Ram11Coder/HackerRank-JAVA/blob/master/BigNumbers/Medium/JavaBigDecimal.java "BigDecimal Sort")| 
 </p>
 
 <br>

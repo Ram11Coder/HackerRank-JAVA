@@ -26,3 +26,5 @@ select DISTINCT(city) from (select city, ID row_id from station) where mod(row_i
 
 select count(*) - count(distinct(city)) from station;
 
+[Higher Than 75 Marks](https://www.hackerrank.com/challenges/more-than-75-marks/problem?isFullScreen=false)
+select name from students where marks >75 order by substr(name,LENGTH(name)-2,3),id;

@@ -33,3 +33,7 @@ Higher Than 75 Marks [Question](https://www.hackerrank.com/challenges/more-than-
 Weather Observation Station 6 [Question](https://www.hackerrank.com/challenges/weather-observation-station-6/problem)
 - [Result](https://github.com/Ram11Coder/HackerRank-JAVA/blob/master/SQL/Basic%20Select/sql11.txt)
 
+Weather Observation Station 7 [Question](https://www.hackerrank.com/challenges/weather-observation-station-7/problem?isFullScreen=false)
+- [Result](https://github.com/Ram11Coder/HackerRank-JAVA/blob/master/SQL/Basic%20Select/sql12.txt)
+
+

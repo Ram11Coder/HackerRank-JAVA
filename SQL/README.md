@@ -45,3 +45,6 @@ Weather Observation Station 9 [Question](https://www.hackerrank.com/challenges/w
 
 Weather Observation Station 10 [Question](https://www.hackerrank.com/challenges/weather-observation-station-10/problem?isFullScreen=false)
 - [Result](https://github.com/Ram11Coder/HackerRank-JAVA/blob/master/SQL/Basic%20Select/sql15.txt)
+
+Weather Observation Station 11 [Question](https://www.hackerrank.com/challenges/weather-observation-station-11/problem?isFullScreen=false)
+- [Result](https://github.com/Ram11Coder/HackerRank-JAVA/blob/master/SQL/Basic%20Select/sql16.txt)

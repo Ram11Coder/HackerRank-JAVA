@@ -73,3 +73,6 @@ Employee Salaries [Question](https://www.hackerrank.com/challenges/salary-of-emp
 
 - Revising Aggregations - Averages [Question](https://www.hackerrank.com/challenges/revising-aggregations-the-average-function/problem?isFullScreen=false)
 - [Result](https://github.com/Ram11Coder/HackerRank-JAVA/blob/master/SQL/Basic%20Select/sql24.txt)
+
+- Japan Population [Question](https://www.hackerrank.com/challenges/japan-population/problem?isFullScreen=false)
+- [Result](https://github.com/Ram11Coder/HackerRank-JAVA/blob/master/SQL/Basic%20Select/sql25.txt)

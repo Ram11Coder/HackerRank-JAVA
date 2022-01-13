@@ -85,3 +85,7 @@ Employee Salaries [Question](https://www.hackerrank.com/challenges/salary-of-emp
 
 - Top Earners [Question](https://www.hackerrank.com/challenges/earnings-of-employees/problem?isFullScreen=false)
 - [Result](https://github.com/Ram11Coder/HackerRank-JAVA/blob/master/SQL/Basic%20Select/sql28.txt)
+
+- Weather Observation Station 13 [Question](https://www.hackerrank.com/challenges/weather-observation-station-13/problem?isFullScreen=false)
+- [Result](https://github.com/Ram11Coder/HackerRank-JAVA/blob/master/SQL/Basic%20Select/sql29.txt)
+

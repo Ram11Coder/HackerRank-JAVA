@@ -79,3 +79,6 @@ Employee Salaries [Question](https://www.hackerrank.com/challenges/salary-of-emp
 
 - Population Density Difference [Question](https://www.hackerrank.com/challenges/population-density-difference/problem?isFullScreen=false)
 - [Result](https://github.com/Ram11Coder/HackerRank-JAVA/blob/master/SQL/Basic%20Select/sql26.txt)
+
+- Weather Observation Station 2 [Question](https://www.hackerrank.com/challenges/weather-observation-station-2/problem?isFullScreen=false)
+- [Result](https://github.com/Ram11Coder/HackerRank-JAVA/blob/master/SQL/Basic%20Select/sql27.txt)

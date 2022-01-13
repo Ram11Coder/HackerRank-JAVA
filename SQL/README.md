@@ -70,3 +70,6 @@ Employee Salaries [Question](https://www.hackerrank.com/challenges/salary-of-emp
 
 - Revising Aggregations - The Sum Function [Question](https://www.hackerrank.com/challenges/revising-aggregations-sum/problem?isFullScreen=false)
 - [Result](https://github.com/Ram11Coder/HackerRank-JAVA/blob/master/SQL/Basic%20Select/sql23.txt)
+
+- Revising Aggregations - Averages [Question](https://www.hackerrank.com/challenges/revising-aggregations-the-average-function/problem?isFullScreen=false)
+- [Result](https://github.com/Ram11Coder/HackerRank-JAVA/blob/master/SQL/Basic%20Select/sql24.txt)

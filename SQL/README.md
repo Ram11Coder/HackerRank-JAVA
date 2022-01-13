@@ -99,3 +99,6 @@ Employee Salaries [Question](https://www.hackerrank.com/challenges/salary-of-emp
 
 - Weather Observation Station 16 [Question](https://www.hackerrank.com/challenges/weather-observation-station-16/problem?isFullScreen=false)
 - [Result](https://github.com/Ram11Coder/HackerRank-JAVA/blob/master/SQL/Basic%20Select/sql32.txt)
+
+- Weather Observation Station 17 [Question](https://www.hackerrank.com/challenges/weather-observation-station-17/problem?isFullScreen=false)
+- [Result](https://github.com/Ram11Coder/HackerRank-JAVA/blob/master/SQL/Basic%20Select/sql33.txt)

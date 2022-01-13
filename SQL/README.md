@@ -114,3 +114,7 @@ Employee Salaries [Question](https://www.hackerrank.com/challenges/salary-of-emp
 ## Joins
 - Population Census [Question](https://www.hackerrank.com/challenges/asian-population/problem?isFullScreen=false)
 - [Result](https://github.com/Ram11Coder/HackerRank-JAVA/blob/master/SQL/Basic%20Select/sql36.txt)
+
+- African Citiess [Question](https://www.hackerrank.com/challenges/african-cities/problem?isFullScreen=false)
+- [Result](https://github.com/Ram11Coder/HackerRank-JAVA/blob/master/SQL/Basic%20Select/sql37.txt)
+

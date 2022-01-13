@@ -106,3 +106,6 @@ Employee Salaries [Question](https://www.hackerrank.com/challenges/salary-of-emp
 
 - The Blunder [Question](https://www.hackerrank.com/challenges/the-blunder/problem?isFullScreen=false)
 - [Result](https://github.com/Ram11Coder/HackerRank-JAVA/blob/master/SQL/Basic%20Select/sql34.txt)
+
+- Weather Observation Station 18 [Question](https://www.hackerrank.com/challenges/weather-observation-station-18/problem?isFullScreen=false)
+- [Result](https://github.com/Ram11Coder/HackerRank-JAVA/blob/master/SQL/Basic%20Select/sql35.txt)

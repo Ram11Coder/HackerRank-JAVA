@@ -109,3 +109,8 @@ Employee Salaries [Question](https://www.hackerrank.com/challenges/salary-of-emp
 
 - Weather Observation Station 18 [Question](https://www.hackerrank.com/challenges/weather-observation-station-18/problem?isFullScreen=false)
 - [Result](https://github.com/Ram11Coder/HackerRank-JAVA/blob/master/SQL/Basic%20Select/sql35.txt)
+
+
+## Joins
+- Population Census [Question](https://www.hackerrank.com/challenges/asian-population/problem?isFullScreen=false)
+- [Result](https://github.com/Ram11Coder/HackerRank-JAVA/blob/master/SQL/Basic%20Select/sql36.txt)

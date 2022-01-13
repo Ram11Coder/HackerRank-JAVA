@@ -76,3 +76,6 @@ Employee Salaries [Question](https://www.hackerrank.com/challenges/salary-of-emp
 
 - Japan Population [Question](https://www.hackerrank.com/challenges/japan-population/problem?isFullScreen=false)
 - [Result](https://github.com/Ram11Coder/HackerRank-JAVA/blob/master/SQL/Basic%20Select/sql25.txt)
+
+- Population Density Difference [Question](https://www.hackerrank.com/challenges/population-density-difference/problem?isFullScreen=false)
+- [Result](https://github.com/Ram11Coder/HackerRank-JAVA/blob/master/SQL/Basic%20Select/sql26.txt)

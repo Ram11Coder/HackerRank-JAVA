@@ -60,3 +60,7 @@ Employee Names [Question](https://www.hackerrank.com/challenges/name-of-employee
 
 Employee Salaries [Question](https://www.hackerrank.com/challenges/salary-of-employees/problem?isFullScreen=false)
 - [Result](https://github.com/Ram11Coder/HackerRank-JAVA/blob/master/SQL/Basic%20Select/sql19.txt)
+
+## Aggregation
+- Average Population [Question](https://www.hackerrank.com/challenges/average-population/problem?isFullScreen=false)
+- [Result](https://github.com/Ram11Coder/HackerRank-JAVA/blob/master/SQL/Basic%20Select/sql21.txt)

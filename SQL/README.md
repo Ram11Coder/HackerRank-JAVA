@@ -1,4 +1,4 @@
-### Basic Select
+## Basic Select
 Revising the Select Query I [Question](https://www.hackerrank.com/challenges/revising-the-select-query/problem?isFullScreen=false)
 - [Result](https://github.com/Ram11Coder/HackerRank-JAVA/blob/master/SQL/Basic%20Select/sql1.txt)
 
@@ -64,3 +64,6 @@ Employee Salaries [Question](https://www.hackerrank.com/challenges/salary-of-emp
 ## Aggregation
 - Average Population [Question](https://www.hackerrank.com/challenges/average-population/problem?isFullScreen=false)
 - [Result](https://github.com/Ram11Coder/HackerRank-JAVA/blob/master/SQL/Basic%20Select/sql21.txt)
+
+- Revising Aggregations - The Count Function [Question](https://www.hackerrank.com/challenges/revising-aggregations-the-count-function/problem?isFullScreen=false)
+- [Result](https://github.com/Ram11Coder/HackerRank-JAVA/blob/master/SQL/Basic%20Select/sql22.txt)

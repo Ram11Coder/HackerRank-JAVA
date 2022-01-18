@@ -6,3 +6,6 @@
 - Looping with Numbers |[ Practise ](https://www.hackerrank.com/challenges/bash-tutorials---looping-with-numbers/problem?isFullScreen=false) |[ Solution ](https://github.com/Ram11Coder/HackerRank-JAVA/blob/master/LINUX%20SHELL/Solution/numberloop.sh)
 - The World of Numbers |[ Practise ](https://www.hackerrank.com/challenges/bash-tutorials---the-world-of-numbers/problem?isFullScreen=false) |[ Solution ](https://github.com/Ram11Coder/HackerRank-JAVA/blob/master/LINUX%20SHELL/Solution/TheWorldofNumbers.sh) 
 - Comparing Numbers |[ Practise ](https://www.hackerrank.com/challenges/bash-tutorials---comparing-numbers/problem?isFullScreen=false) |[ Solution ](https://github.com/Ram11Coder/HackerRank-JAVA/blob/master/LINUX%20SHELL/Solution/CompareNumbers.sh) 
+- Getting started with conditionals |[ Practise ](https://www.hackerrank.com/challenges/bash-tutorials---getting-started-with-conditionals/problem?isFullScreen=false) |[ Solution ](https://github.com/Ram11Coder/HackerRank-JAVA/blob/master/LINUX%20SHELL/Solution/Conditional.sh)
+
+

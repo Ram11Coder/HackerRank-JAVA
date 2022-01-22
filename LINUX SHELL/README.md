@@ -8,4 +8,4 @@
 - Comparing Numbers |[ Practise ](https://www.hackerrank.com/challenges/bash-tutorials---comparing-numbers/problem?isFullScreen=false) |[ Solution ](https://github.com/Ram11Coder/HackerRank-JAVA/blob/master/LINUX%20SHELL/Solution/CompareNumbers.sh) 
 - Getting started with conditionals |[ Practise ](https://www.hackerrank.com/challenges/bash-tutorials---getting-started-with-conditionals/problem?isFullScreen=false) |[ Solution ](https://github.com/Ram11Coder/HackerRank-JAVA/blob/master/LINUX%20SHELL/Solution/Conditional.sh)
 - Arithmetic Operations |[ Practise ](https://www.hackerrank.com/challenges/bash-tutorials---arithmetic-operations/problem?isFullScreen=false) |[ Solution ](https://github.com/Ram11Coder/HackerRank-JAVA/blob/master/LINUX%20SHELL/Solution/Arthmetic.sh)
-
+- More on Conditionals |[ Practise ](https://www.hackerrank.com/challenges/bash-tutorials---more-on-conditionals/problem?isFullScreen=false) |[ Solution ](https://github.com/Ram11Coder/HackerRank-JAVA/blob/master/LINUX%20SHELL/Solution/cond.sh)

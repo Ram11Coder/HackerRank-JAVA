@@ -2,4 +2,5 @@
 HackerRank Practise Problems
 - JAVA
 - SQL
+- MATHS
 

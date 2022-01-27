@@ -3,7 +3,7 @@ import java.util.*;
 import java.text.*;
 import java.math.*;
 import java.util.regex.*;
-
+//The negated character class [^] matches any character that is not in the square brackets.
 public class Solution {    
 
     public static void main(String[] args) {

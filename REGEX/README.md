@@ -12,3 +12,4 @@
 - Matching Character Ranges [ Problem ](https://www.hackerrank.com/challenges/matching-range-of-characters/problem?isFullScreen=false) | [ Solution ](https://github.com/Ram11Coder/HackerRank-JAVA/blob/master/REGEX/Solutions/Regex9.java)
 - Matching Zero Or More Repetitions [ Problem ](https://www.hackerrank.com/challenges/matching-zero-or-more-repetitions/problem) | [ Solution ](https://github.com/Ram11Coder/HackerRank-JAVA/blob/master/REGEX/Solutions/Regex10.java)
 - Matching {x} Repetitions [ Problem ](https://www.hackerrank.com/challenges/matching-x-repetitions/problem?isFullScreen=false) | [ Solution ](https://github.com/Ram11Coder/HackerRank-JAVA/blob/master/REGEX/Solutions/Regex11.java)
+- Matching {x, y} Repetitions [ Problem ](https://www.hackerrank.com/challenges/matching-x-y-repetitions/problem?isFullScreen=false) | [ Solution ](https://github.com/Ram11Coder/HackerRank-JAVA/blob/master/REGEX/Solutions/Regex12.java)

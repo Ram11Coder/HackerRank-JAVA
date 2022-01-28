@@ -10,3 +10,4 @@
 - Matching Anything But a Newline [ Problem ](https://www.hackerrank.com/challenges/matching-anything-but-new-line/problem?isFullScreen=false) | [ Solution ](https://github.com/Ram11Coder/HackerRank-JAVA/blob/master/REGEX/Solutions/Regex7.java)
 - Excluding Specific Characters [ Problem ](https://www.hackerrank.com/challenges/excluding-specific-characters/problem?isFullScreen=false) | [ Solution ](https://github.com/Ram11Coder/HackerRank-JAVA/blob/master/REGEX/Solutions/Regex8.java)
 - Matching Character Ranges [ Problem ](https://www.hackerrank.com/challenges/matching-range-of-characters/problem?isFullScreen=false) | [ Solution ](https://github.com/Ram11Coder/HackerRank-JAVA/blob/master/REGEX/Solutions/Regex9.java)
+- Matching Zero Or More Repetitions [ Problem ](https://www.hackerrank.com/challenges/matching-zero-or-more-repetitions/problem) | [ Solution ](https://github.com/Ram11Coder/HackerRank-JAVA/blob/master/REGEX/Solutions/Regex10.java)

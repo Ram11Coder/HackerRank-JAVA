@@ -15,3 +15,4 @@
 - Matching {x, y} Repetitions [ Problem ](https://www.hackerrank.com/challenges/matching-x-y-repetitions/problem?isFullScreen=false) | [ Solution ](https://github.com/Ram11Coder/HackerRank-JAVA/blob/master/REGEX/Solutions/Regex12.java)
 - Matching Ending Items [ Problem ](https://www.hackerrank.com/challenges/matching-ending-items/problem?isFullScreen=false) | [ Solution ](https://github.com/Ram11Coder/HackerRank-JAVA/blob/master/REGEX/Solutions/Regex13.java)
 - Matching One Or More Repetitions [ Problem ](https://www.hackerrank.com/challenges/matching-one-or-more-repititions/problem) | [ Solution ](https://github.com/Ram11Coder/HackerRank-JAVA/blob/master/REGEX/Solutions/Regex14.java)
+- Matching Same Text Again & Again [ Problem ](https://www.hackerrank.com/challenges/matching-same-text-again-again/problem?isFullScreen=false) | [ Solution ](https://github.com/Ram11Coder/HackerRank-JAVA/blob/master/REGEX/Solutions/Regex15.java)

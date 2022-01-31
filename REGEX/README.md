@@ -18,3 +18,4 @@
 - Matching Same Text Again & Again [ Problem ](https://www.hackerrank.com/challenges/matching-same-text-again-again/problem?isFullScreen=false) | [ Solution ](https://github.com/Ram11Coder/HackerRank-JAVA/blob/master/REGEX/Solutions/Regex15.java)
 - Matching Word Boundaries [ Problem ](https://www.hackerrank.com/challenges/matching-word-boundaries/problem?isFullScreen=false) | [ Solution ](https://github.com/Ram11Coder/HackerRank-JAVA/blob/master/REGEX/Solutions/Regex16.java)
 - Capturing & Non-Capturing Groups [ Problem ](https://www.hackerrank.com/challenges/capturing-non-capturing-groups/problem?isFullScreen=false) | [ Solution ](https://github.com/Ram11Coder/HackerRank-JAVA/blob/master/REGEX/Solutions/Regex17.java)
+- Alternative Matching [ Problem ](https://www.hackerrank.com/challenges/alternative-matching/problem?isFullScreen=false) | [ Solution ](https://github.com/Ram11Coder/HackerRank-JAVA/blob/master/REGEX/Solutions/Regex18.java)

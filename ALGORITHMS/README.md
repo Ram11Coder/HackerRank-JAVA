@@ -7,3 +7,4 @@
 - Compare the Triplets |[ Problem ](https://www.hackerrank.com/challenges/compare-the-triplets/problem?isFullScreen=false)|[ Solution ](https://github.com/Ram11Coder/HackerRank-JAVA/blob/master/ALGORITHMS/Solutions/Algo4.java)
 - Plus Minus |[ Problem ](https://www.hackerrank.com/challenges/plus-minus/problem?isFullScreen=false)|[ Solution ](https://github.com/Ram11Coder/HackerRank-JAVA/blob/master/ALGORITHMS/Solutions/Algo5.java)
 - Mini-Max Sum |[ Problem ](https://www.hackerrank.com/challenges/mini-max-sum/problem?isFullScreen=false)|[ Solution ](https://github.com/Ram11Coder/HackerRank-JAVA/blob/master/ALGORITHMS/Solutions/Algo6.java)
+- Time Conversion |[ Problem ](https://www.hackerrank.com/challenges/time-conversion/problem?isFullScreen=false)|[ Solution ](https://github.com/Ram11Coder/HackerRank-JAVA/blob/master/ALGORITHMS/Solutions/Algo7.java)

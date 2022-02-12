@@ -20,3 +20,4 @@
 - Capturing & Non-Capturing Groups [ Problem ](https://www.hackerrank.com/challenges/capturing-non-capturing-groups/problem?isFullScreen=false) | [ Solution ](https://github.com/Ram11Coder/HackerRank-JAVA/blob/master/REGEX/Solutions/Regex17.java)
 - Alternative Matching [ Problem ](https://www.hackerrank.com/challenges/alternative-matching/problem?isFullScreen=false) | [ Solution ](https://github.com/Ram11Coder/HackerRank-JAVA/blob/master/REGEX/Solutions/Regex18.java)
 - Backreferences To Failed Groups [ Problem ](https://www.hackerrank.com/challenges/backreferences-to-failed-groups/problem) | [ Solution ](https://github.com/Ram11Coder/HackerRank-JAVA/blob/master/REGEX/Solutions/Regex19.java)
+- Branch Reset Groups [ Problem ](https://www.hackerrank.com/challenges/branch-reset-groups/problem?isFullScreen=false) | [ Solution ](https://github.com/Ram11Coder/HackerRank-JAVA/blob/master/REGEX/Solutions/Regex20.java)

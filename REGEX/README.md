@@ -22,3 +22,4 @@
 - Backreferences To Failed Groups [ Problem ](https://www.hackerrank.com/challenges/backreferences-to-failed-groups/problem) | [ Solution ](https://github.com/Ram11Coder/HackerRank-JAVA/blob/master/REGEX/Solutions/Regex19.java)
 - Branch Reset Groups [ Problem ](https://www.hackerrank.com/challenges/branch-reset-groups/problem?isFullScreen=false) | [ Solution ](https://github.com/Ram11Coder/HackerRank-JAVA/blob/master/REGEX/Solutions/Regex20.java)
 - Forward References [ Problem ](https://www.hackerrank.com/challenges/forward-references/problem?isFullScreen=false) | [ Solution ](https://github.com/Ram11Coder/HackerRank-JAVA/blob/master/REGEX/Solutions/Regex21.java)
+- Positive Lookahead [ Problem ](https://www.hackerrank.com/challenges/positive-lookahead/problem?isFullScreen=false) | [ Solution ](https://github.com/Ram11Coder/HackerRank-JAVA/blob/master/REGEX/Solutions/Regex22.java)

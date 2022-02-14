@@ -25,3 +25,4 @@
 - Positive Lookahead [ Problem ](https://www.hackerrank.com/challenges/positive-lookahead/problem?isFullScreen=false) | [ Solution ](https://github.com/Ram11Coder/HackerRank-JAVA/blob/master/REGEX/Solutions/Regex22.java)
 - Negative Lookahead [ Problem ](https://www.hackerrank.com/challenges/negative-lookahead/problem?isFullScreen=false&h_r=next-challenge&h_v=zen) | [ Solution ](https://github.com/Ram11Coder/HackerRank-JAVA/blob/master/REGEX/Solutions/Regex23.java)
 - Positive Lookbehind [ Problem ](https://www.hackerrank.com/challenges/positive-lookbehind/problem?isFullScreen=false) | [ Solution ](https://github.com/Ram11Coder/HackerRank-JAVA/blob/master/REGEX/Solutions/Regex24.java)
+- Negative Lookbehind [ Problem ](https://www.hackerrank.com/challenges/negative-lookbehind/problem?isFullScreen=false) | [ Solution ](https://github.com/Ram11Coder/HackerRank-JAVA/blob/master/REGEX/Solutions/Regex25.java)

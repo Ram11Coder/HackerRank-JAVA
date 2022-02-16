@@ -10,3 +10,4 @@
 - Time Conversion |[ Problem ](https://www.hackerrank.com/challenges/time-conversion/problem?isFullScreen=false)|[ Solution ](https://github.com/Ram11Coder/HackerRank-JAVA/blob/master/ALGORITHMS/Solutions/Algo7.java)
 - Diagonal Difference |[ Problem ](https://www.hackerrank.com/challenges/diagonal-difference/problem?isFullScreen=false)|[ Solution ](https://github.com/Ram11Coder/HackerRank-JAVA/blob/master/ALGORITHMS/Solutions/Algo8.java)
 - Staircase |[ Problem ](https://www.hackerrank.com/challenges/staircase/problem?isFullScreen=false)|[ Solution ](https://github.com/Ram11Coder/HackerRank-JAVA/blob/master/ALGORITHMS/Solutions/Algo9.java)
+- Birthday Cake Candles |[ Problem ](https://www.hackerrank.com/challenges/birthday-cake-candles/problem?isFullScreen=false)|[ Solution ](https://github.com/Ram11Coder/HackerRank-JAVA/blob/master/ALGORITHMS/Solutions/Algo10.java)

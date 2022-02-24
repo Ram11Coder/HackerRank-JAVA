@@ -38,6 +38,7 @@ Easy | [ValidUsername](https://github.com/Ram11Coder/HackerRank-JAVA/blob/master
 Easy | [PatternSyntaxChecker](https://github.com/Ram11Coder/HackerRank-JAVA/blob/master/JAVA/Strings/Easy/Anagram.javaPatternSyntaxChecker.java "PatternSyntaxChecker") |
 Easy | [Anagram](https://github.com/Ram11Coder/HackerRank-JAVA/blob/master/JAVA/Strings/Easy/Anagram.javaAnagram.java "Anagram") |
 Medium | [Regex 1](https://github.com/Ram11Coder/HackerRank-JAVA/blob/master/JAVA/Strings/Medium/Regex.java "Regex") |
+Medium | [ Java Regex 2 - Duplicate Words ](https://github.com/Ram11Coder/HackerRank-JAVA/blob/master/JAVA/Strings/Medium/JavaRegex2.java "Java Regex 2 - Duplicate Words ") |
 
 </p>
 

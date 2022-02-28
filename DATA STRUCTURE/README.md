@@ -15,3 +15,6 @@
 - Print in Reverse | [ Problem ](https://www.hackerrank.com/challenges/print-the-elements-of-a-linked-list-in-reverse/problem?isFullScreen=false) | [ Solution ](https://github.com/Ram11Coder/HackerRank-JAVA/blob/master/DATA%20STRUCTURE/Solution/Ds10.java)
 - Compare two linked lists | [ Problem ](https://www.hackerrank.com/challenges/compare-two-linked-lists/problem?isFullScreen=false) | [ Solution ](https://github.com/Ram11Coder/HackerRank-JAVA/blob/master/DATA%20STRUCTURE/Solution/Ds11.java)
 - Get Node Value | [ Problem ](https://www.hackerrank.com/challenges/get-the-value-of-the-node-at-a-specific-position-from-the-tail/problem?isFullScreen=false) | [ Solution ](https://github.com/Ram11Coder/HackerRank-JAVA/blob/master/DATA%20STRUCTURE/Solution/Ds12.java)
+
+### Stack
+- Maximum Element | [ Problem ](https://www.hackerrank.com/challenges/maximum-element/problem?isFullScreen=false) | [ Solution ](https://github.com/Ram11Coder/HackerRank-JAVA/blob/master/DATA%20STRUCTURE/Solution/Ds13.java)

@@ -43,4 +43,6 @@
 - Population Census | [ Question ](https://www.hackerrank.com/challenges/asian-population/problem?isFullScreen=false) | [ Result ](https://github.com/Ram11Coder/HackerRank-JAVA/blob/master/SQL/Solutions/sql36.txt)
 - African Citiess | [ Question ](https://www.hackerrank.com/challenges/african-cities/problem?isFullScreen=false) | [ Result ](https://github.com/Ram11Coder/HackerRank-JAVA/blob/master/SQL/Solutions/sql37.txt)
 - Average Population of Each Continent | [ Question ](https://www.hackerrank.com/challenges/average-population-of-each-continent/problem?isFullScreen=false) | [ Result ](https://github.com/Ram11Coder/HackerRank-JAVA/blob/master/SQL/Solutions/sql38.txt)
--
+
+## Advance SQL
+- Type of Triangle | [ Question ](https://www.hackerrank.com/challenges/what-type-of-triangle/problem?isFullScreen=false) | [ Result ](https://github.com/Ram11Coder/HackerRank-JAVA/blob/master/SQL/Solutions/sql41.txt)

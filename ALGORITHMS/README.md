@@ -15,7 +15,7 @@
 ### Implementation
 - Grading Students |[ Problem ](https://www.hackerrank.com/challenges/grading/problem?isFullScreen=false)|[ Solution ](https://github.com/Ram11Coder/HackerRank-JAVA/blob/master/ALGORITHMS/Solutions/Algo11.java)
 - Apple and Orange |[ Problem ](https://www.hackerrank.com/challenges/apple-and-orange/problem?isFullScreen=false)|[ Solution ](https://github.com/Ram11Coder/HackerRank-JAVA/blob/master/ALGORITHMS/Solutions/Algo12.java)
-
+- Day of the Programmer |[ Problem ](https://www.hackerrank.com/challenges/day-of-the-programmer/problem)|[ Solution ](https://github.com/Ram11Coder/HackerRank-JAVA/blob/master/ALGORITHMS/Solutions/Algo15.java)
 
 ### Strings
 - CamelCase |[ Problem ](https://www.hackerrank.com/challenges/camelcase/problem?isFullScreen=false)|[ Solution ](https://github.com/Ram11Coder/HackerRank-JAVA/blob/master/ALGORITHMS/Solutions/Algo13.java)

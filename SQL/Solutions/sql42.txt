@@ -1,0 +1,10 @@
+
+Select case 
+when o.grade>=8 then o.name
+else NULL
+end as name 
+,o.grade,o.marks from(
+    select Students.name, Grades.grade,Students.marks from Students left join Grades on
+    Students.marks between Grades.min_mark and max_mark
+) o order by o.grade desc,o.name; 
+

@@ -1,1 +1,1 @@
-select DISTINCT(city) from (select city, ID row_id from station) where mod(row_id ,2)=0 order by city;
+select distinct(city) from station where mod(id,2)=0 order by city;

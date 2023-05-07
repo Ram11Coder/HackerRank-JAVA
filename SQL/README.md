@@ -44,5 +44,6 @@
 - African Citiess | [ Question ](https://www.hackerrank.com/challenges/african-cities/problem?isFullScreen=false) | [ Result ](https://github.com/Ram11Coder/HackerRank-JAVA/blob/master/SQL/Solutions/sql37.txt)
 - Average Population of Each Continent | [ Question ](https://www.hackerrank.com/challenges/average-population-of-each-continent/problem?isFullScreen=false) | [ Result ](https://github.com/Ram11Coder/HackerRank-JAVA/blob/master/SQL/Solutions/sql38.txt)
 - The Report | [ Question ](https://www.hackerrank.com/challenges/average-population-of-each-continent/problem?isFullScreen=false) | [ Result ](https://github.com/Ram11Coder/HackerRank-JAVA/blob/master/SQL/Solutions/sql42.txt)
+- Challenge | [ Question ](https://www.hackerrank.com/challenges/challenges/problem?isFullScreen=true) | [ Result ](https://github.com/Ram11Coder/HackerRank-JAVA/blob/master/SQL/Solutions/sql43.txt)
 ## Advance SQL
 - Type of Triangle | [ Question ](https://www.hackerrank.com/challenges/the-report/problem?isFullScreen=false) | [ Result ](https://github.com/Ram11Coder/HackerRank-JAVA/blob/master/SQL/Solutions/sql41.txt)

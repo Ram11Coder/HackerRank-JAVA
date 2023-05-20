@@ -21,3 +21,4 @@
 ### Strings
 - CamelCase |[ Problem ](https://www.hackerrank.com/challenges/camelcase/problem?isFullScreen=false)|[ Solution ](https://github.com/Ram11Coder/HackerRank-JAVA/blob/master/ALGORITHMS/Solutions/Algo13.java)
 - Strong Password |[ Problem ](https://www.hackerrank.com/challenges/strong-password/problem?isFullScreen=false)|[ Solution ](https://github.com/Ram11Coder/HackerRank-JAVA/blob/master/ALGORITHMS/Solutions/Algo14.java)
+- Super Reduced String |[ Problem ](https://www.hackerrank.com/challenges/reduced-string/problem?isFullScreen=false)|[ Solution ](https://github.com/Ram11Coder/HackerRank-JAVA/blob/master/ALGORITHMS/Solutions/Algo17.java)
